@@ -1,0 +1,101 @@
+--2022-06-15 09:38:38--  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Resolving drive.google.com (drive.google.com)... 108.160.163.117, 2001::1f0d:6e11
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 09:40:46--  (try: 2)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 09:42:56--  (try: 3)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 09:45:06--  (try: 4)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 09:47:17--  (try: 5)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 09:49:30--  (try: 6)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 09:51:43--  (try: 7)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 09:53:57--  (try: 8)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 09:56:12--  (try: 9)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 09:58:29--  (try:10)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 10:00:46--  (try:11)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 10:03:03--  (try:12)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 10:05:20--  (try:13)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 10:07:37--  (try:14)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 10:09:55--  (try:15)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 10:12:12--  (try:16)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 10:14:29--  (try:17)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 10:16:47--  (try:18)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 10:19:04--  (try:19)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2022-06-15 10:21:21--  (try:20)  https://drive.google.com/file/d/182-pFiKvXPB25DbTfAYjJ6gDE-ZCRXz0/view?usp=sharing
+Connecting to drive.google.com (drive.google.com)|108.160.163.117|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:6e11|:443... failed: Cannot assign requested address.
+Giving up.
+

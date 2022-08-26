@@ -1,0 +1,16 @@
+tensorflow-gpu==1.8
+numpy
+scipy
+pillow
+imageio==2.15.0
+pretty_midi
+pypianoroll
+config
+metrics
+sympy
+torch
+torchvision
+timm
+config
+sympy
+torch
